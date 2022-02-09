@@ -1,0 +1,26 @@
+.content--body {
+    padding: 100px 200px;
+}
+.content--text {
+    font-size: 20px;
+    opacity: 0.6;
+    
+}
+.btn--prev {
+    margin-right: 20px;
+}
+.fnbtn {
+  width: 20%;
+  margin-left: 29%;
+  margin-right: 20px;
+}
+.notfnbtn {
+    width: 20%;
+     
+}
+
+
+.cl--text {
+    color: blue;
+    
+}
